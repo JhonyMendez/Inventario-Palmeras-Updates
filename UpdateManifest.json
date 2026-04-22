@@ -1,7 +1,7 @@
 {
 "version": "1.0.0",
-"packagePath": "LasPalmerasApp_1.0.0.zip",
+"packagePath": "https://github.com/JhonyMendez/Inventario-Palmeras-Updates/releases/download/v1.0.0/Las.Palmeras.v1.0.0.zip",
 "entryExecutable": "LasPalmerasApp.exe",
 "forceUpdate": false,
-"releaseNotes": "Correcciones y mejoras"
+"releaseNotes": "Primera versión"
 }
