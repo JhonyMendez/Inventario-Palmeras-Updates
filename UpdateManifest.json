@@ -1,7 +1,7 @@
 {
-  "version": "1.0.21",
-  "packagePath": "https://github.com/JhonyMendez/Inventario-Palmeras-Updates/releases/download/V.1.0.21/LasPalmerasApp_1.0.21.zip",
+  "version": "1.0.22",
+  "packagePath": "https://github.com/JhonyMendez/Inventario-Palmeras-Updates/releases/download/V.1.0.22/LasPalmerasApp_1.0.22.zip",
   "entryExecutable": "LasPalmerasApp.exe",
   "forceUpdate": false,
-  "releaseNotes": "Cambio minimo para probar la actualizacion 1.0.21 con progreso visible en PowerShell"
+  "releaseNotes": "Cambio minimo para probar la actualizacion 1.0.22 con progreso visible en PowerShell"
 }
