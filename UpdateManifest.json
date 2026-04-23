@@ -1,7 +1,7 @@
 {
-  "version": "1.0.14",
-  "packagePath": "https://github.com/JhonyMendez/Inventario-Palmeras-Updates/releases/download/V.1.0.14/LasPalmerasApp_1.0.14.zip",
+  "version": "1.0.15",
+  "packagePath": "https://github.com/JhonyMendez/Inventario-Palmeras-Updates/releases/download/V.1.0.15/LasPalmerasApp_1.0.15.zip",
   "entryExecutable": "LasPalmerasApp.exe",
   "forceUpdate": false,
-  "releaseNotes": "Evita arrancar el updater oculto para que la ventana de progreso aparezca al actualizar"
+  "releaseNotes": "Nueva actualización para comprobar que el cuadro de actualización y la barra de progreso aparecen correctamente"
 }
