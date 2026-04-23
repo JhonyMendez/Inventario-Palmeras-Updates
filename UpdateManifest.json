@@ -1,7 +1,7 @@
 {
-  "version": "1.0.8",
-  "packagePath": "https://github.com/JhonyMendez/Inventario-Palmeras-Updates/releases/download/V.1.0.8/LasPalmerasApp_1.0.8.zip",
+  "version": "1.0.9",
+  "packagePath": "https://github.com/JhonyMendez/Inventario-Palmeras-Updates/releases/download/V.1.0.9/LasPalmerasApp_1.0.9.zip",
   "entryExecutable": "LasPalmerasApp.exe",
   "forceUpdate": false,
-  "releaseNotes": "Corrige el error del actualizador y mantiene el respaldo diario de la base de datos"
+  "releaseNotes": "Actualización 1.0.9 con el instalador pensado para carpeta local recomendada y el respaldo diario activo"
 }
