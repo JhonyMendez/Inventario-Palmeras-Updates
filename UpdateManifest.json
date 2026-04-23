@@ -1,7 +1,7 @@
 {
-  "version": "1.0.15",
-  "packagePath": "https://github.com/JhonyMendez/Inventario-Palmeras-Updates/releases/download/V.1.0.15/LasPalmerasApp_1.0.15.zip",
+  "version": "1.0.16",
+  "packagePath": "https://github.com/JhonyMendez/Inventario-Palmeras-Updates/releases/download/V.1.0.16/LasPalmerasApp_1.0.16.zip",
   "entryExecutable": "LasPalmerasApp.exe",
   "forceUpdate": false,
-  "releaseNotes": "Nueva actualización para comprobar que el cuadro de actualización y la barra de progreso aparecen correctamente"
+  "releaseNotes": "Oculta la consola de PowerShell, muestra solo la ventana del updater y reintenta copias si hay archivos bloqueados"
 }
