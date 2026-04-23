@@ -1,7 +1,7 @@
 {
-  "version": "1.0.13",
-  "packagePath": "https://github.com/JhonyMendez/Inventario-Palmeras-Updates/releases/download/V.1.0.13/LasPalmerasApp_1.0.13.zip",
+  "version": "1.0.14",
+  "packagePath": "https://github.com/JhonyMendez/Inventario-Palmeras-Updates/releases/download/V.1.0.14/LasPalmerasApp_1.0.14.zip",
   "entryExecutable": "LasPalmerasApp.exe",
   "forceUpdate": false,
-  "releaseNotes": "Muestra la ventana de progreso antes de descargar y mantiene visible el estado de éxito o fallo"
+  "releaseNotes": "Evita arrancar el updater oculto para que la ventana de progreso aparezca al actualizar"
 }
