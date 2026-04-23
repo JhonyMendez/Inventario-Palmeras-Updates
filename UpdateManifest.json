@@ -1,7 +1,7 @@
 {
-  "version": "1.0.12",
-  "packagePath": "https://github.com/JhonyMendez/Inventario-Palmeras-Updates/releases/download/V.1.0.12/LasPalmerasApp_1.0.12.zip",
+  "version": "1.0.13",
+  "packagePath": "https://github.com/JhonyMendez/Inventario-Palmeras-Updates/releases/download/V.1.0.13/LasPalmerasApp_1.0.13.zip",
   "entryExecutable": "LasPalmerasApp.exe",
   "forceUpdate": false,
-  "releaseNotes": "Muestra mejor la ventana de actualización y evita el cierre con error nulo al finalizar"
+  "releaseNotes": "Muestra la ventana de progreso antes de descargar y mantiene visible el estado de éxito o fallo"
 }
